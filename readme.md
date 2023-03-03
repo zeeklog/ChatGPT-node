@@ -1,4 +1,5 @@
 # ChatGPT API <!-- omit in toc -->
+From @transitive-bullshit
 
 > Node.js client for the official [ChatGPT](https://openai.com/blog/chatgpt/) API.
 
